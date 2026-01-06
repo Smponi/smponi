@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">An aspiring professional software engineer</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smponi&show_icons=true&locale=en" alt="smponi" /></p>
+- 🌱 Advancing proficiency in next-gen AI orchestration and Claude Code to redefine modern engineering patterns.
 
-- 🌱 I’m currently learning **Go**
-
-- 👨‍💻 Portfolio [philipp.smponias.de](philipp.smponias.de)
+- 👨‍💻 Portfolio [https://philipp.smponias.de](https://philipp.smponias.de)
 
 - 🥝 Fun fact **Kiwis can be eaten with the skin**
 
