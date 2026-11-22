@@ -1,18 +1,32 @@
-<h1 align="center">Hi 👋, I'm Philipp</h1>
-<h3 align="center">An aspiring professional software engineer</h3>
+<div align="center">
 
-- 🌱 Advancing proficiency in next-gen AI orchestration and Claude Code to redefine modern engineering patterns.
+<img src="./assets/hero.svg" width="100%" alt="Philipp Smponias, software engineer. Same models for everyone. Quality is the difference." />
 
-- 👨‍💻 Portfolio [https://philipp.smponias.de](https://philipp.smponias.de)
+<br />
 
-- 🥝 Fun fact **Kiwis can be eaten with the skin**
+<a href="https://philipp.smponias.de"><img src="./assets/button-portfolio.svg" height="44" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/smponias-p"><img src="./assets/button-linkedin.svg" height="44" alt="LinkedIn" /></a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/smponias-p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="smponias-p" height="30" width="40" /></a>
-</p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<img src="./assets/workspace.svg" width="100%" alt="Split-view workspace: an AI agent plans and edits, Neovim shows the code being written, lazygit records the commit" />
 
+<sub>Claude drafts, Gemini reviews, the tests decide. Nothing lands without my sign-off.</sub>
 
+<br />
+
+<img src="./assets/principles.svg" width="100%" alt="How I work: quality is the moat. Model-agnostic. Own the stack." />
+
+<br />
+
+<a href="https://github.com/Smponi/Stoa"><img src="./assets/card-stoa.svg" width="49%" alt="Stoa: IntelliJ plugin with focus-driven split resizing" /></a>
+<a href="https://github.com/Smponi/kmpRSS"><img src="./assets/card-kmprss.svg" width="49%" alt="kmpRSS: agent-native Kotlin Multiplatform RSS reader" /></a>
+<a href="https://github.com/Smponi/sarifToHtml"><img src="./assets/card-sarif-html.svg" width="49%" alt="sarif-html: SARIF security scans as readable HTML reports" /></a>
+<a href="https://github.com/Smponi/Paper2Anki"><img src="./assets/card-paper2anki.svg" width="49%" alt="Paper2Anki: handwritten flashcards to Anki" /></a>
+
+<br />
+
+<img src="./assets/footer.svg" width="100%" alt="Same models. Different standards." />
+
+<sub>🥝 Survived every rewrite: kiwis can be eaten with the skin.</sub>
+
+</div>
