@@ -4,13 +4,11 @@
 
 <br />
 
-<a href="https://philipp.smponias.de"><img src="./assets/button-portfolio.svg" height="44" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/smponias-p"><img src="./assets/button-linkedin.svg" height="44" alt="LinkedIn" /></a>
+<a href="https://philipp.smponias.de"><img src="./assets/button-portfolio.svg" height="56" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/smponias-p"><img src="./assets/button-linkedin.svg" height="56" alt="LinkedIn" /></a>
 
 <br />
 
-<img src="./assets/workspace.svg" width="100%" alt="Split-view workspace: an AI agent plans and edits, Neovim shows the code being written, lazygit records the commit" />
-
-<sub>Claude drafts, Gemini reviews, the tests decide. Nothing lands without my sign-off.</sub>
+<img src="./assets/workspace.svg" width="100%" alt="Hand-drawn split view: an AI agent checks off its steps, Neovim shows the code being written, lazygit records the commit. Claude drafts, Gemini reviews, the tests decide, and nothing lands without my sign-off." />
 
 <br />
 
@@ -25,8 +23,6 @@
 
 <br />
 
-<img src="./assets/footer.svg" width="100%" alt="Same models. Different standards." />
-
-<sub>🥝 Survived every rewrite: kiwis can be eaten with the skin.</sub>
+<img src="./assets/footer.svg" width="100%" alt="Same models. Different standards. Signed, Philipp. P.S. kiwis can be eaten with the skin." />
 
 </div>

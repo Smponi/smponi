@@ -1,14 +1,22 @@
-Fonts embedded (subset) in the SVGs in this folder:
+Letterforms used in the hand-drawn SVGs in this folder
 
-- Inter — Copyright 2020 The Inter Project Authors (https://github.com/rsms/inter)
-- Instrument Serif — Copyright 2022 The Instrument Serif Project Authors (https://github.com/Instrument/instrument-serif)
-- JetBrains Mono — Copyright 2020 The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
+The SVGs contain no fonts. Every letter is drawn as an ink stroke (SVG path),
+traced from single-line "plotter" fonts by Evil Mad Scientist, smoothed and
+individually jittered so it reads like ballpoint handwriting:
 
-All three are licensed under the SIL Open Font License, Version 1.1:
+- EMS Tech                  (derivative of Architects Daughter, Kimberly Geswein)
+- EMS Readability (Italic)  (derivative of Source Sans Pro Light, Paul D. Hunt / Adobe)
+- EMS Allure                (derivative of Allura, Rob Leuschke / TypeSETit)
+
+EMS fonts created by Sheldon B. Michaels, SVG font conversion by Windell H. Oskay,
+distributed with the Inkscape "Hershey Text" extension
+(https://gitlab.com/inkscape/extensions/-/tree/master/svg_fonts).
+All are licensed under the SIL Open Font License, Version 1.1:
+
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
-https://scripts.sil.org/OFL
+http://scripts.sil.org/OFL
 
 
 -----------------------------------------------------------
